@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-30",
+  "status": "hazirlandi_uretim_bekliyor",
+  "topic": "Yapay zeka alışveriş ajanları ürün verinizi okuyor: e-ticaret siteniz hazır mı?",
+  "why_this_topic": "Google'ın yapay zeka özetleri ticari aramalarda hızla yayılıyor ve büyük perakendeciler sitelerini yapay zeka alışveriş ajanlarına göre yeniden kuruyor. KOBİ'ler için pratik sonuç: ürün verisi düzeni ve ölçüm. Son 14 günde işlenen Meta ölçüm değişikliği konusundan farklı.",
+  "scores": {"zamanlilik": 4, "kitle_ilgisi": 4, "orbyte_bagi": 4, "dogrulanabilirlik": 3, "ozgunluk": 4, "toplam": 19},
+  "previous_topics_last_14d": ["Orbyte kinetik marka videosu (20 Eki)", "Cumhuriyet Bayramı (29 Eki)", "Meta reklam ölçüm değişikliği 12 Kasım (30 Eki)"],
+  "sources": [
+    {"title": "Search Engine Land: Google AI Overviews nearly double on commercial keywords", "url": "https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078", "date": "2026-10-22"},
+    {"title": "Semrush: AI Overviews commercial search study", "url": "https://www.semrush.com/blog/ai-overviews-commercial-search-study/", "date": "2026 (kesin yayın tarihi doğrulanamadı; veri Ağustos 2026)"},
+    {"title": "eMarketer: Walmart prepares its ecommerce platform for AI shopping agents", "url": "https://www.emarketer.com/content/walmart-prepares-ecommerce-platform-ai-shopping-agents", "date": "2026-10-23"},
+    {"title": "Practical Ecommerce: AI shopping metrics, considered", "url": "https://www.practicalecommerce.com/ai-shopping-metrics-considered", "date": "2026-10-22"}
+  ],
+  "verification_notes": [
+    "Birincil sayfalar (SEL, eMarketer, Practical Ecommerce) araç izni nedeniyle doğrudan açılamadı; bilgiler bir haftalık derleme (Anicca, 26 Eki) ve bağımsız arama sonuçlarıyla (PPC Land, TechWyse, Semrush) çapraz teyit edildi.",
+    "%88 ve %45,75 oranları ABD masaüstü ticari anahtar kelimeleri içindir (Semrush, Ağustos 2026); Türkiye için doğrulanmadı, metinde açıkça belirtilecek.",
+    "Walmart ayrıntıları yalnızca ana hatlarıyla alınmalı (yapılandırılmış ürün verisi, fiyat, stok erişimi); rakam eklenmeyecek.",
+    "Yayın öncesi birincil sayfalar kullanıcı/üretim oturumunda bir kez daha açılıp doğrulanmalı."
+  ],
+  "format": {"recommendation": "kinetik video, müzikli, 28 sn (en iyi format, n<5 kesin değil)", "experiment_note": "Karusel ve metin formatı henüz 0 deneme; Pazartesi %30 keşif payı karusele ayrılsın."},
+  "video_script_28s": [
+    {"scene": 1, "time": "0-4 sn", "headline": "ALIŞVERİŞİ ARTIK YAPAY ZEKA YAPIYOR", "keywords": ["YAPAY ZEKA", "ALIŞVERİŞ"]},
+    {"scene": 2, "time": "4-9 sn", "headline": "ARAMALARIN ÇOĞUNDA ÖZET VAR", "keywords": ["AI ÖZETLERİ", "ABD: %88"]},
+    {"scene": 3, "time": "9-14 sn", "headline": "DEVLER SİTESİNİ AJANLARA AÇIYOR", "keywords": ["WALMART", "AJAN"]},
+    {"scene": 4, "time": "14-19 sn", "headline": "ÜRÜN VERİNİZ NET Mİ?", "keywords": ["FİYAT", "STOK", "ÜRÜN VERİSİ"]},
+    {"scene": 5, "time": "19-24 sn", "headline": "ÖLÇMEZSENİZ GÖRMEZSİNİZ", "keywords": ["ATIF", "CRM"]},
+    {"scene": 6, "time": "24-28 sn", "headline": "ORBYTE: BÜYÜMENİN MERKEZİNDE", "keywords": ["ORBYTE", "ORBYTE.TR"]}
+  ],
+  "captions": {
+    "linkedin": "Yapay zeka artık yalnızca arama sonuçlarını özetlemiyor, alışveriş kararını da hazırlamaya başlıyor.\n\nSemrush verisine göre ABD'de takip edilen ticari anahtar kelimelerin %88'inde Google'ın yapay zeka özeti çıkıyor (bir yıl önce %45,75). En büyük artış e-ticarette. Bu oran Türkiye için doğrulanmış değil, ama yönü gösteriyor. Walmart da sitesini yapay zeka alışveriş ajanlarının fiyat, stok ve ürün verisine okuyabileceği şekilde yeniden kuruyor.\n\nKOBİ'ler için anlamı: Müşteriniz sizi bir yapay zeka cevabının içinde görüyorsa, ürün verinizin düzenli ve güncel olması vitrininiz kadar önemli. Üstelik standart oturum analitiği ajan kaynaklı satışları kaçırabilir; CRM'inizdeki gerçek siparişle karşılaştırmadan hangi kanalın satış getirdiğini bilemezsiniz.\n\nBugün yapılabilecekler:\n1. Ürün başlık, fiyat ve stok bilgilerinizi tek kaynaktan tutarlı yayınlayın.\n2. Yapay zeka kaynaklı trafiği analitiğinizde ayrı izleyin.\n3. Satışları CRM kayıtlarıyla eşleştirin.\n\nSatış ve ölçüm akışınızı birlikte kurmak isterseniz: orbyte.tr\n\nKaynaklar\n- Search Engine Land (22 Ekim 2026): https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078\n- Semrush: https://www.semrush.com/blog/ai-overviews-commercial-search-study/\n- eMarketer (23 Ekim 2026): https://www.emarketer.com/content/walmart-prepares-ecommerce-platform-ai-shopping-agents\n- Practical Ecommerce (22 Ekim 2026): https://www.practicalecommerce.com/ai-shopping-metrics-considered",
+    "instagram": "Müşteriniz artık ürünü yapay zekaya soruyor olabilir. 🛒\n\nABD'de ticari aramaların %88'inde Google'ın yapay zeka özeti çıkıyor (Semrush, Ağustos 2026; Türkiye verisi yok). Walmart da sitesini yapay zeka alışveriş ajanlarına göre yeniden kuruyor.\n\nSizin için üç kontrol: ürün başlığı, fiyat ve stok bilginiz her yerde aynı mı, yapay zeka kaynaklı trafiği ayrı izliyor musunuz, satışları CRM'inizle eşleştiriyor musunuz?\n\nDetaylar için orbyte.tr\n\n#ETicaret #YapayZeka #KOBİ #DijitalPazarlama #CRM\n\nKaynaklar\n- Search Engine Land (22 Ekim 2026): searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078\n- eMarketer (23 Ekim 2026): emarketer.com/content/walmart-prepares-ecommerce-platform-ai-shopping-agents\n- Practical Ecommerce (22 Ekim 2026): practicalecommerce.com/ai-shopping-metrics-considered\n- Semrush: semrush.com/blog/ai-overviews-commercial-search-study",
+    "facebook": "E-ticaret yapıyorsanız bu değişimi şimdiden izlemekte fayda var: ABD'de ticari aramaların %88'inde Google'ın yapay zeka özeti çıkıyor (Semrush, Ağustos 2026; Türkiye için doğrulanmış veri yok) ve Walmart gibi devler sitelerini yapay zeka alışveriş ajanlarına açıyor.\n\nKüçük işletmeler için asıl iş basit: ürün başlığı, fiyat ve stok bilgisini her yerde tutarlı tutmak, yapay zeka kaynaklı trafiği ayrı ölçmek ve satışları CRM kayıtlarıyla karşılaştırmak.\n\nBirlikte bakmak isterseniz: orbyte.tr\n\nKaynaklar\n- Search Engine Land (22 Ekim 2026): https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078\n- eMarketer (23 Ekim 2026): https://www.emarketer.com/content/walmart-prepares-ecommerce-platform-ai-shopping-agents\n- Practical Ecommerce (22 Ekim 2026): https://www.practicalecommerce.com/ai-shopping-metrics-considered\n- Semrush: https://www.semrush.com/blog/ai-overviews-commercial-search-study/"
+  },
+  "announcement_yeni_gonderi_yayinda": {
+    "text": "Yeni gönderi yayında: Yapay zeka alışveriş ajanları ürün verinizi okuyor. E-ticaret siteniz hazır mı?",
+    "story": "yalnızca Instagram (1080x1920); LinkedIn ve Facebook için story üretilmez",
+    "visual_rule": "Görselde yalnızca büyük başlık ve keyword; açıklama ve kaynaklar caption'da"
+  },
+  "suggested_publish": {
+    "note": "Zamanlama yapılmadı, yalnızca öneri. Bugünün Meta içeriği IG'de 18:00 Reel + 21:17 story ile hâlâ bekliyor, aynı gün ikinci içerik önerilmiyor.",
+    "linkedin": "Pazartesi 2 Kasım 2026, 09:30 (09:00-12:00 saat hipotezi testi)",
+    "facebook": "Pazartesi 2 Kasım 2026, 12:00",
+    "instagram": "Pazartesi 2 Kasım 2026, 18:00 (Reel) + duyuru story 21:00"
+  }
+}
